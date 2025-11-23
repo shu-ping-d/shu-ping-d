@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Luna🇹🇼 </h1>
 
-<!--
-**shu-ping-d/shu-ping-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌱 I'm currently learning <strong>CyberSecurity/AI/ML</strong>
+</p>
+<p align="center">
+  📫 How to reach me <strong>luna.work404@gmail.com</strong>
+</p>
+<p align="center">
+  💬 Ask me about anything <a href="https://github.com/shu-ping-d/shu-ping-d/issues">here</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+  <tr>
+    <td width="100%">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shu-ping-d" alt="shu-ping-d's Top Languages"/>
+      </p>
+    </td>
+  </tr>
+</table>
+<br clear="both">
